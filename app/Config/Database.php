@@ -29,7 +29,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
 		'password' => 'password',
-		'database' => 'cartlog',
+		'database' => 'cartlog', 
         // 'username' => 'carttalog_admin',
 		// 'password' => 'a;Nv%3An]ce#',
 		// 'database' => 'carttalog_ecom',
