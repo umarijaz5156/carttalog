@@ -1,0 +1,1617 @@
+INFO - 2025-01-19 00:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2025-01-19 00:00:46 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: ";"
+[Method: GET, Route: s/9383e2234323e26343e24383/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('s/9383e2234323e26343e24383/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('s/9383e2234323e26343e24383/_/;/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-01-19 00:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:06:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:07:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:07:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:43:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:44:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:45:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:51:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 00:56:35 --> CSRF token verified.
+INFO - 2025-01-19 01:01:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:08:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:11:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:17:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:18:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:21:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:30:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:41:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 01:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:05:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:19:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:30:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:38:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:38:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 02:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:01:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:05:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:09:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:19:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:44:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:45:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:56:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:56:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 03:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 04:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 04:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 04:39:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 04:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 04:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 04:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:01:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:01:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:12:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:13:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:18:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:18:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:18:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:18:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:18:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:18:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:48:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 05:49:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 06:08:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 06:12:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 06:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 06:20:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 06:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:09:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:18:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:38:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:49:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 07:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 08:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 08:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 08:14:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 08:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 08:50:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 08:58:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:53:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:32 --> CSRF token verified.
+INFO - 2025-01-19 09:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 09:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:02:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:36:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:50:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:50:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:50:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 10:51:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:08:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:08:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:08:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:16:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:30:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:47:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 11:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:10:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:19:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:21:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:23:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:44:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:46:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:50:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:52:22 --> CSRF token verified.
+INFO - 2025-01-19 12:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 12:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:18:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:23:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:44:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 13:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:03:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:14:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:15:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:22:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:44:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:50:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:52:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:52:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 14:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:04:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:08:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+ERROR - 2025-01-19 15:22:13 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/MySQLi/Connection.php(186): mysqli->real_connect('localhost', 'carttalog_admin', Object(SensitiveParameterValue), 'carttalog_ecom', 3306, '', 0)
+#1 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#3 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#4 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#5 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#6 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#7 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#8 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#10 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#11 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#12 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#15 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#16 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#17 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#18 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#19 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#20 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#21 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#22 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#23 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#24 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#3 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#4 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#5 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#6 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#7 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#9 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#10 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#11 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#12 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#15 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#16 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#17 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#18 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#19 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#20 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#21 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#22 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#23 {main}
+CRITICAL - 2025-01-19 15:22:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+[Method: GET, Route: commercial/for-sale-1557]
+in SYSTEMPATH/Database/BaseConnection.php on line 467.
+ 1 SYSTEMPATH/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+ 2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+ 3 SYSTEMPATH/Session/Session.php(920): session_start()
+ 4 SYSTEMPATH/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+ 5 SYSTEMPATH/Config/Services.php(710): CodeIgniter\Session\Session->start()
+ 6 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 7 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 8 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 9 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+10 APPPATH/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', [])
+11 APPPATH/Config/Globals.php(245): Config\Globals::setGlobals()
+12 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/home/carttalog/public_html/app/Config/Globals.php')
+13 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog/public_html/app/Config/Globals.php')
+14 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+15 APPPATH/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+16 SYSTEMPATH/Router/RouteCollection.php(340): require('/home/carttalog/public_html/app/Config/Routes.php')
+17 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+18 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+19 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+20 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+21 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+22 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-19 15:22:13 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(8.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(8.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(8388608)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Database\Exceptions\DatabaseException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 8)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Database\Exceptions\DatabaseException
+Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#2 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#3 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#4 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#5 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#6 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#9 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#11 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#12 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#14 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#15 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#16 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#17 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#18 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#19 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#20 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#21 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#22 {main}
+[Method: GET, Route: commercial/for-sale-1557]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2025-01-19 15:22:17 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/MySQLi/Connection.php(186): mysqli->real_connect('localhost', 'carttalog_admin', Object(SensitiveParameterValue), 'carttalog_ecom', 3306, '', 0)
+#1 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#3 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#4 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#5 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#6 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#7 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#8 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#10 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#11 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#12 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#15 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#16 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#17 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#18 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#19 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#20 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#21 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#22 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#23 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#24 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#3 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#4 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#5 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#6 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#7 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#9 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#10 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#11 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#12 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#15 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#16 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#17 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#18 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#19 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#20 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#21 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#22 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#23 {main}
+CRITICAL - 2025-01-19 15:22:17 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+[Method: GET, Route: coats-jackets/trench-coats]
+in SYSTEMPATH/Database/BaseConnection.php on line 467.
+ 1 SYSTEMPATH/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+ 2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+ 3 SYSTEMPATH/Session/Session.php(920): session_start()
+ 4 SYSTEMPATH/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+ 5 SYSTEMPATH/Config/Services.php(710): CodeIgniter\Session\Session->start()
+ 6 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 7 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 8 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 9 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+10 APPPATH/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', [])
+11 APPPATH/Config/Globals.php(245): Config\Globals::setGlobals()
+12 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/home/carttalog/public_html/app/Config/Globals.php')
+13 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog/public_html/app/Config/Globals.php')
+14 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+15 APPPATH/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+16 SYSTEMPATH/Router/RouteCollection.php(340): require('/home/carttalog/public_html/app/Config/Routes.php')
+17 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+18 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+19 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+20 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+21 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+22 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-19 15:22:17 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(8.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(8.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(8388608)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Database\Exceptions\DatabaseException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 8)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Database\Exceptions\DatabaseException
+Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#2 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#3 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#4 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#5 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#6 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#9 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#11 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#12 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#14 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#15 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#16 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#17 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#18 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#19 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#20 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#21 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#22 {main}
+[Method: GET, Route: coats-jackets/trench-coats]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2025-01-19 15:23:16 --> Error connecting to the database: mysqli_sql_exception: Too many connections in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/MySQLi/Connection.php(186): mysqli->real_connect('localhost', 'carttalog_admin', Object(SensitiveParameterValue), 'carttalog_ecom', 3306, '', 0)
+#1 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#3 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#4 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#5 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#6 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#7 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#8 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#10 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#11 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#12 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#15 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#16 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#17 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#18 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#19 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#20 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#21 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#22 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#23 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#24 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Too many connections in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#3 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#4 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#5 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#6 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#7 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#9 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#10 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#11 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#12 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#15 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#16 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#17 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#18 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#19 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#20 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#21 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#22 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#23 {main}
+CRITICAL - 2025-01-19 15:23:16 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Too many connections
+[Method: GET, Route: commercial/businesses-for-sale]
+in SYSTEMPATH/Database/BaseConnection.php on line 467.
+ 1 SYSTEMPATH/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+ 2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+ 3 SYSTEMPATH/Session/Session.php(920): session_start()
+ 4 SYSTEMPATH/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+ 5 SYSTEMPATH/Config/Services.php(710): CodeIgniter\Session\Session->start()
+ 6 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 7 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 8 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 9 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+10 APPPATH/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', [])
+11 APPPATH/Config/Globals.php(245): Config\Globals::setGlobals()
+12 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/home/carttalog/public_html/app/Config/Globals.php')
+13 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog/public_html/app/Config/Globals.php')
+14 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+15 APPPATH/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+16 SYSTEMPATH/Router/RouteCollection.php(340): require('/home/carttalog/public_html/app/Config/Routes.php')
+17 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+18 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+19 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+20 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+21 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+22 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2025-01-19 15:28:25 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/MySQLi/Connection.php(186): mysqli->real_connect('localhost', 'carttalog_admin', Object(SensitiveParameterValue), 'carttalog_ecom', 3306, '', 0)
+#1 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#3 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#4 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#5 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#6 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#7 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#8 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#10 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#11 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#12 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#15 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#16 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#17 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#18 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#19 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#20 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#21 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#22 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#23 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#24 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#3 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#4 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#5 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#6 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#7 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#9 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#10 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#11 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#12 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#15 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#16 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#17 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#18 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#19 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#20 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#21 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#22 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#23 {main}
+CRITICAL - 2025-01-19 15:28:25 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+[Method: GET, Route: blog/life-style/certain-circumstances-and-owing-to-the-claims]
+in SYSTEMPATH/Database/BaseConnection.php on line 467.
+ 1 SYSTEMPATH/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+ 2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+ 3 SYSTEMPATH/Session/Session.php(920): session_start()
+ 4 SYSTEMPATH/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+ 5 SYSTEMPATH/Config/Services.php(710): CodeIgniter\Session\Session->start()
+ 6 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 7 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 8 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 9 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+10 APPPATH/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', [])
+11 APPPATH/Config/Globals.php(245): Config\Globals::setGlobals()
+12 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/home/carttalog/public_html/app/Config/Globals.php')
+13 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog/public_html/app/Config/Globals.php')
+14 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+15 APPPATH/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+16 SYSTEMPATH/Router/RouteCollection.php(340): require('/home/carttalog/public_html/app/Config/Routes.php')
+17 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+18 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+19 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+20 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+21 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+22 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-19 15:28:26 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(8.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(8.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(8388608)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Database\Exceptions\DatabaseException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 8)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Database\Exceptions\DatabaseException
+Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#2 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#3 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#4 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#5 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#6 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#9 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#11 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#12 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#14 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#15 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#16 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#17 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#18 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#19 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#20 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#21 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#22 {main}
+[Method: GET, Route: blog/life-style/certain-circumstances-and-owing-to-the-claims]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2025-01-19 15:30:21 --> Error connecting to the database: mysqli_sql_exception: Connection refused in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:186
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/MySQLi/Connection.php(186): mysqli->real_connect('localhost', 'carttalog_admin', Object(SensitiveParameterValue), 'carttalog_ecom', 3306, '', 0)
+#1 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#3 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#4 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#5 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#6 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#7 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#8 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#10 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#11 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#12 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#15 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#16 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#17 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#18 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#19 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#20 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#21 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#22 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#23 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#24 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Connection refused in /home/carttalog/public_html/system/Database/MySQLi/Connection.php:231
+Stack trace:
+#0 /home/carttalog/public_html/system/Database/BaseConnection.php(421): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#3 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#4 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#5 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#6 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#7 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#9 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#10 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#11 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#12 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#14 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#15 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#16 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#17 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#18 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#19 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#20 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#21 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#22 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#23 {main}
+CRITICAL - 2025-01-19 15:30:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+[Method: GET, Route: electrical-tools/other-electrical-tools]
+in SYSTEMPATH/Database/BaseConnection.php on line 467.
+ 1 SYSTEMPATH/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+ 2 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+ 3 SYSTEMPATH/Session/Session.php(920): session_start()
+ 4 SYSTEMPATH/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+ 5 SYSTEMPATH/Config/Services.php(710): CodeIgniter\Session\Session->start()
+ 6 SYSTEMPATH/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+ 7 SYSTEMPATH/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', [...])
+ 8 SYSTEMPATH/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', null)
+ 9 SYSTEMPATH/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+10 APPPATH/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', [])
+11 APPPATH/Config/Globals.php(245): Config\Globals::setGlobals()
+12 SYSTEMPATH/Autoloader/Autoloader.php(317): include_once('/home/carttalog/public_html/app/Config/Globals.php')
+13 SYSTEMPATH/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog/public_html/app/Config/Globals.php')
+14 SYSTEMPATH/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+15 APPPATH/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+16 SYSTEMPATH/Router/RouteCollection.php(340): require('/home/carttalog/public_html/app/Config/Routes.php')
+17 SYSTEMPATH/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+18 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(null)
+19 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+20 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+21 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+22 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-01-19 15:30:21 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(8.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(8.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(8388608)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\Database\Exceptions\DatabaseException), 500, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(163): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Database\Exceptions\DatabaseException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 8)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Database\Exceptions\DatabaseException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Database\Exceptions\DatabaseException
+Unable to connect to the database.
+Main connection [MySQLi]: Connection refused
+#0 /home/carttalog/public_html/system/Session/Handlers/DatabaseHandler.php(100): CodeIgniter\Database\BaseConnection->initialize()
+#1 [internal function]: CodeIgniter\Session\Handlers\DatabaseHandler->open('ci_sessions', 'mds_session')
+#2 /home/carttalog/public_html/system/Session/Session.php(920): session_start()
+#3 /home/carttalog/public_html/system/Session/Session.php(242): CodeIgniter\Session\Session->startSession()
+#4 /home/carttalog/public_html/system/Config/Services.php(710): CodeIgniter\Session\Session->start()
+#5 /home/carttalog/public_html/system/Config/BaseService.php(312): CodeIgniter\Config\Services::session(Object(Config\Session), false)
+#6 /home/carttalog/public_html/system/Config/BaseService.php(251): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#7 /home/carttalog/public_html/system/Config/Services.php(668): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#8 /home/carttalog/public_html/system/Config/BaseService.php(321): CodeIgniter\Config\Services::session()
+#9 /home/carttalog/public_html/app/Config/Globals.php(32): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#10 /home/carttalog/public_html/app/Config/Globals.php(245): Config\Globals::setGlobals()
+#11 /home/carttalog/public_html/system/Autoloader/Autoloader.php(317): include_once('/home/carttalog...')
+#12 /home/carttalog/public_html/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('/home/carttalog...')
+#13 /home/carttalog/public_html/system/Autoloader/Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('Config\\Globals')
+#14 /home/carttalog/public_html/app/Config/Routes.php(6): CodeIgniter\Autoloader\Autoloader->loadClass('Config\\Globals')
+#15 /home/carttalog/public_html/system/Router/RouteCollection.php(340): require('/home/carttalog...')
+#16 /home/carttalog/public_html/system/CodeIgniter.php(823): CodeIgniter\Router\RouteCollection->loadRoutes()
+#17 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(NULL)
+#18 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#19 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#20 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#21 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#22 {main}
+[Method: GET, Route: electrical-tools/other-electrical-tools]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2025-01-19 15:30:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:34:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:35:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:38:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:40:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:46:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:49:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:51:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:52:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 15:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:02:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:10:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:11:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:15:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:15:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:23:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:31:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:35:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:44:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:48:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 16:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:02:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:06:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:13:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:29:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:29:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:29:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:34:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:35:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:36:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:46:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:50:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 17:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:15:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:19:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:25:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:33:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 18:56:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:19:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:22:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:26:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:26:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 19:58:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:03:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:05:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:09:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:11:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:13:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:15:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:16:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:22:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:26:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:26:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:32:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:32:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:41:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:42:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:52:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:53:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:53:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:53:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:53:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 20:53:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:01:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:03:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:12:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:12:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:14:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:18:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:56:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 21:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:00:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:30:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:32:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:43:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:45:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 22:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:15:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:20:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:20:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:20:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:23:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:25:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:30:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:43:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:45:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:50:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2025-01-19 23:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.

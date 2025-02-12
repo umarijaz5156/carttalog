@@ -1,0 +1,1 @@
+a:1:{i:0;a:7:{s:2:"id";s:3:"145";s:4:"name";s:16:"Dogs and Puppies";s:4:"slug";s:12:"dogs-puppies";s:9:"parent_id";s:1:"9";s:11:"description";s:0:"";s:8:"keywords";s:12:"dogs,puppies";s:14:"category_order";s:3:"145";}}

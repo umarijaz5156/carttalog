@@ -1,0 +1,1488 @@
+INFO - 2024-12-11 00:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 00:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 00:21:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 00:29:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 00:33:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 00:59:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:02:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:28:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:34:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:43:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 01:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:15:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:43:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:47:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:48:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 02:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:00:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:00:53 --> CSRF token verified.
+INFO - 2024-12-11 03:02:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:49:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 03:49:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 04:04:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 04:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 04:07:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 04:27:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 04:37:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 04:41:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 04:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 04:43:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 04:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 05:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 05:32:23 --> CSRF token verified.
+INFO - 2024-12-11 05:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 05:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 05:37:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 05:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 05:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 05:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:04:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:04:07 --> CSRF token verified.
+INFO - 2024-12-11 06:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:04:20 --> CSRF token verified.
+INFO - 2024-12-11 06:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:27:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:32:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:32:17 --> CSRF token verified.
+INFO - 2024-12-11 06:44:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:44:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 06:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 07:08:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 07:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 07:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 07:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 07:46:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 07:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 07:51:34 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "الإنترنت"
+[Method: GET, Route: ar/blog/tag/%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/الإنترنت')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/الإنترنت')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 07:51:34 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "الإنترنت"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD8\xA7\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD8\xA7\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 07:51:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 07:51:36 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "الاختلافات"
+[Method: GET, Route: ar/blog/tag/%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81%D8%A7%D8%AA]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/الاختلافات')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/الاختلافات')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 07:51:36 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "الاختلافات"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD8\xA7\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD8\xA7\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81%D8%A7%D8%AA]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 07:59:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 08:01:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 08:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 08:43:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 08:46:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 08:46:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 08:46:27 --> CSRF token verified.
+INFO - 2024-12-11 08:46:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 08:46:58 --> CSRF token verified.
+INFO - 2024-12-11 09:05:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:09:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:18:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:18:09 --> CSRF token verified.
+INFO - 2024-12-11 09:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:55:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 09:55:21 --> CSRF token verified.
+INFO - 2024-12-11 10:26:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 10:31:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 10:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 10:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 10:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:26:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:50:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:51:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:51:53 --> CSRF token verified.
+INFO - 2024-12-11 11:52:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:52:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:52:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:52:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:52:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:52:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:53:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:54:50 --> CSRF token verified.
+INFO - 2024-12-11 11:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:55:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:56:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 11:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 12:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 12:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 12:44:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 12:46:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 12:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 12:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 13:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 13:11:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:28 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "الظروف"
+[Method: GET, Route: ar/blog/tag/%D8%A7%D9%84%D8%B8%D8%B1%D9%88%D9%81]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/الظروف')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/الظروف')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:28 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "الظروف"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD8\xA7\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD8\xA7\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D8%A7%D9%84%D8%B8%D8%B1%D9%88%D9%81]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "الفقرات"
+[Method: GET, Route: ar/blog/tag/%D8%A7%D9%84%D9%81%D9%82%D8%B1%D8%A7%D8%AA]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/الفقرات')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/الفقرات')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:30 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(12.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(12.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(12582912)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "الفقرات"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD8\xA7\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD8\xA7\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D8%A7%D9%84%D9%81%D9%82%D8%B1%D8%A7%D8%AA]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:32 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "بسبب"
+[Method: GET, Route: ar/blog/tag/%D8%A8%D8%B3%D8%A8%D8%A8]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/بسبب')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/بسبب')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:32 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "بسبب"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD8\xA8\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD8\xA8\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D8%A8%D8%B3%D8%A8%D8%A8]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:34 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "بسخط"
+[Method: GET, Route: ar/blog/tag/%D8%A8%D8%B3%D8%AE%D8%B7]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/بسخط')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/بسخط')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:34 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "بسخط"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD8\xA8\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD8\xA8\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D8%A8%D8%B3%D8%AE%D8%B7]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:36 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "تعبير"
+[Method: GET, Route: ar/blog/tag/%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/تعبير')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/تعبير')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:36 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "تعبير"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD8\xAA\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD8\xAA\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:39 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "حاسمة"
+[Method: GET, Route: ar/blog/tag/%D8%AD%D8%A7%D8%B3%D9%85%D8%A9]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/حاسمة')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/حاسمة')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:39 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "حاسمة"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD8\xAD\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD8\xAD\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D8%AD%D8%A7%D8%B3%D9%85%D8%A9]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:41 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "للاعتقاد"
+[Method: GET, Route: ar/blog/tag/%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/للاعتقاد')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/للاعتقاد')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:41 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "للاعتقاد"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD9\x84\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD9\x84\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:43 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "مولدات"
+[Method: GET, Route: ar/blog/tag/%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/مولدات')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/مولدات')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:43 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "مولدات"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD9\x85\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD9\x85\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:45 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "نص"
+[Method: GET, Route: ar/blog/tag/%D9%86%D8%B5]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/نص')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/نص')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:45 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "نص"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD9\x86\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD9\x86\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D9%86%D8%B5]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:47 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "وإحباطهم"
+[Method: GET, Route: ar/blog/tag/%D9%88%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7%D9%87%D9%85]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/وإحباطهم')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/وإحباطهم')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:47 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "وإحباطهم"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD9\x88\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD9\x88\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D9%88%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7%D9%87%D9%85]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 13:11:49 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "والمحررين"
+[Method: GET, Route: ar/blog/tag/%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B1%D9%8A%D9%86]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/والمحررين')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/والمحررين')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 13:11:49 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "والمحررين"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/tag/\xD9\x88\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/tag/\xD9\x88\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/tag/%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D8%B1%D9%8A%D9%86]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 13:21:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 13:21:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 13:39:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 14:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 14:25:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 14:26:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 14:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 14:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 14:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 14:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 15:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 15:09:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 15:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 15:23:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 15:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 15:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 15:48:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 16:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 16:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 16:14:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 16:19:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 16:27:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 16:27:13 --> CSRF token verified.
+INFO - 2024-12-11 16:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 16:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 16:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 16:52:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:07:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:08:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:15:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:28:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:41:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:44:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 17:49:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 18:34:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 18:35:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 18:38:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 18:39:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 18:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 18:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 18:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:14 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "اعمال"
+[Method: GET, Route: ar/blog/%D8%A7%D8%B9%D9%85%D8%A7%D9%84]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/اعمال')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/اعمال')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:14 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "اعمال"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD8\xA7\xD8\xB9\xD9\x85\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD8\xA7\xD8\xB9\xD9\x85\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D8%A7%D8%B9%D9%85%D8%A7%D9%84]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:16 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "اعمال"
+[Method: GET, Route: ar/blog/%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D8%B9%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%AD%D8%B2%D9%85-%D8%A7%D9%84%D9%86%D8%B4%D8%B1-%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D9%8A]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/اعمال/العديد-من-حزم-النشر-المكتبي')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/اعمال/العديد-من-حزم-النشر-المكتبي')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:16 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "اعمال"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD8\xA7\xD8\xB9\xD9\x85\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD8\xA7\xD8\xB9\xD9\x85\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%A7%D9%84%D8%B9%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%AD%D8%B2%D9%85-%D8%A7%D9%84%D9%86%D8%B4%D8%B1-%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D9%8A]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:18 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "اعمال"
+[Method: GET, Route: ar/blog/%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%AE%D9%84%D8%A7%D9%81%D8%A7-%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9-%D9%84%D9%8A%D8%B3-%D9%85%D8%AC%D8%B1%D8%AF-%D9%86%D8%B5-%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/اعمال/خلافا-للاعتقاد-الشائع-ليس-مجرد-نص-عشوائي')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/اعمال/خلافا-للاعتقاد-الشائع-ليس-مجرد-نص-عشوائي')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:18 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "اعمال"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD8\xA7\xD8\xB9\xD9\x85\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD8\xA7\xD8\xB9\xD9\x85\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%AE%D9%84%D8%A7%D9%81%D8%A7-%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D8%AF-%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9-%D9%84%D9%8A%D8%B3-%D9%85%D8%AC%D8%B1%D8%AF-%D9%86%D8%B5-%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:20 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "اعمال"
+[Method: GET, Route: ar/blog/%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%B8%D8%B1%D9%88%D9%81-%D9%85%D8%B9%D9%8A%D9%86%D8%A9-%D9%88%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/اعمال/ظروف-معينة-وبسبب-المطالبات')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/اعمال/ظروف-معينة-وبسبب-المطالبات')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:20 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "اعمال"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD8\xA7\xD8\xB9\xD9\x85\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD8\xA7\xD8\xB9\xD9\x85\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D8%A7%D8%B9%D9%85%D8%A7%D9%84/%D8%B8%D8%B1%D9%88%D9%81-%D9%85%D8%B9%D9%8A%D9%86%D8%A9-%D9%88%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A7%D8%AA]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:22 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "لايف-ستايل"
+[Method: GET, Route: ar/blog/%D9%84%D8%A7%D9%8A%D9%81-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/لايف-ستايل')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/لايف-ستايل')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:22 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "لايف-ستايل"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD9\x84\xD8\xA7\xD9\x8A\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD9\x84\xD8\xA7\xD9\x8A\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D9%84%D8%A7%D9%8A%D9%81-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:24 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "لايف-ستايل"
+[Method: GET, Route: ar/blog/%D9%84%D8%A7%D9%8A%D9%81-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84/%D8%AA%D8%B7%D9%88%D8%B1%D8%AA-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%B1-%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/لايف-ستايل/تطورت-إصدارات-مختلفة-على-مر-السنين')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/لايف-ستايل/تطورت-إصدارات-مختلفة-على-مر-السنين')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:24 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "لايف-ستايل"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD9\x84\xD8\xA7\xD9\x8A\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD9\x84\xD8\xA7\xD9\x8A\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D9%84%D8%A7%D9%8A%D9%81-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84/%D8%AA%D8%B7%D9%88%D8%B1%D8%AA-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D9%84%D9%81%D8%A9-%D8%B9%D9%84%D9%89-%D9%85%D8%B1-%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:26 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "لايف-ستايل"
+[Method: GET, Route: ar/blog/%D9%84%D8%A7%D9%8A%D9%81-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84/%D9%87%D9%86%D8%A7%D9%83-%D8%A7%D9%84%D8%B9%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%82%D8%B1%D8%A7%D8%AA]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/لايف-ستايل/هناك-العديد-من-الاختلافات-في-الفقرات')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/لايف-ستايل/هناك-العديد-من-الاختلافات-في-الفقرات')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:26 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "لايف-ستايل"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD9\x84\xD8\xA7\xD9\x8A\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD9\x84\xD8\xA7\xD9\x8A\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D9%84%D8%A7%D9%8A%D9%81-%D8%B3%D8%AA%D8%A7%D9%8A%D9%84/%D9%87%D9%86%D8%A7%D9%83-%D8%A7%D9%84%D8%B9%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D9%81%D9%82%D8%B1%D8%A7%D8%AA]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:28 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "موضه"
+[Method: GET, Route: ar/blog/%D9%85%D9%88%D8%B6%D9%87]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/موضه')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/موضه')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:28 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "موضه"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD9\x85\xD9\x88\xD8\xB6\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD9\x85\xD9\x88\xD8\xB6\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D9%85%D9%88%D8%B6%D9%87]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:30 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "موضه"
+[Method: GET, Route: ar/blog/%D9%85%D9%88%D8%B6%D9%87/%D8%AA%D8%B6%D9%8A%D8%B9-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B5%D9%81-%D9%82%D8%AF-%D8%A7%D9%82%D8%AA%D8%B1%D8%A8%D8%AA]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/موضه/تضيع-لماذا-نصف-قد-اقتربت')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/موضه/تضيع-لماذا-نصف-قد-اقتربت')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:30 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(12.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(12.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(12582912)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "موضه"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD9\x85\xD9\x88\xD8\xB6\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD9\x85\xD9\x88\xD8\xB6\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D9%85%D9%88%D8%B6%D9%87/%D8%AA%D8%B6%D9%8A%D8%B9-%D9%84%D9%85%D8%A7%D8%B0%D8%A7-%D9%86%D8%B5%D9%81-%D9%82%D8%AF-%D8%A7%D9%82%D8%AA%D8%B1%D8%A8%D8%AA]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:32 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "موضه"
+[Method: GET, Route: ar/blog/%D9%85%D9%88%D8%B6%D9%87/%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/موضه/جميع-المولدات-على-الإنترنت')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/موضه/جميع-المولدات-على-الإنترنت')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:32 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "موضه"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD9\x85\xD9\x88\xD8\xB6\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD9\x85\xD9\x88\xD8\xB6\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D9%85%D9%88%D8%B6%D9%87/%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:34 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "موضه"
+[Method: GET, Route: ar/blog/%D9%85%D9%88%D8%B6%D9%87/%D9%85%D8%B2%D8%A7%D9%8A%D8%A7-%D8%AD%D8%A7%D8%B3%D9%85%D8%A9-%D9%88%D9%84%D8%A7-%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/موضه/مزايا-حاسمة-ولا-تعبير')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/موضه/مزايا-حاسمة-ولا-تعبير')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:34 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(12.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(12.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(12582912)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "موضه"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/blog/\xD9\x85\xD9\x88\xD8\xB6\xD9...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/blog/\xD9\x85\xD9\x88\xD8\xB6\xD9...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/blog/%D9%85%D9%88%D8%B6%D9%87/%D9%85%D8%B2%D8%A7%D9%8A%D8%A7-%D8%AD%D8%A7%D8%B3%D9%85%D8%A9-%D9%88%D9%84%D8%A7-%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:36 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "حساب"
+[Method: GET, Route: ar/help-center/%D8%AD%D8%B3%D8%A7%D8%A8]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/help-center/حساب')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/help-center/حساب')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:36 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "حساب"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/help-center/...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/help-center/...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/help-center/%D8%AD%D8%B3%D8%A7%D8%A8]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:38 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "حساب"
+[Method: GET, Route: ar/help-center/%D8%AD%D8%B3%D8%A7%D8%A8/%D9%83%D9%8A%D9%81-%D8%AA%D8%BA%D9%8A%D8%B1-%D9%83%D9%84%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D9%83]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/help-center/حساب/كيف-تغير-كلمة-السر-الخاصة-بك')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/help-center/حساب/كيف-تغير-كلمة-السر-الخاصة-بك')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:38 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(12.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(12.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(12582912)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "حساب"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('ar/help-center/...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('ar/help-center/...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: ar/help-center/%D8%AD%D8%B3%D8%A7%D8%A8/%D9%83%D9%8A%D9%81-%D8%AA%D8%BA%D9%8A%D8%B1-%D9%83%D9%84%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D9%83]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:40 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "الظروف"
+[Method: GET, Route: blog/tag/%D8%A7%D9%84%D8%B8%D8%B1%D9%88%D9%81]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('blog/tag/الظروف')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('blog/tag/الظروف')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:40 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "الظروف"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('blog/tag/\xD8\xA7\xD9\x84\xD8\xB8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('blog/tag/\xD8\xA7\xD9\x84\xD8\xB8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: blog/tag/%D8%A7%D9%84%D8%B8%D8%B1%D9%88%D9%81]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:42 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "حاسمة"
+[Method: GET, Route: blog/tag/%D8%AD%D8%A7%D8%B3%D9%85%D8%A9]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('blog/tag/حاسمة')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('blog/tag/حاسمة')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:42 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "حاسمة"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('blog/tag/\xD8\xAD\xD8\xA7\xD8\xB3...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('blog/tag/\xD8\xAD\xD8\xA7\xD8\xB3...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: blog/tag/%D8%AD%D8%A7%D8%B3%D9%85%D8%A9]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:44 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "مولدات"
+[Method: GET, Route: blog/tag/%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('blog/tag/مولدات')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('blog/tag/مولدات')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:44 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "مولدات"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('blog/tag/\xD9\x85\xD9\x88\xD9\x84...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('blog/tag/\xD9\x85\xD9\x88\xD9\x84...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: blog/tag/%D9%85%D9%88%D9%84%D8%AF%D8%A7%D8%AA]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:45 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "وإحباطهم"
+[Method: GET, Route: blog/tag/%D9%88%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7%D9%87%D9%85]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('blog/tag/وإحباطهم')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('blog/tag/وإحباطهم')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:45 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(10.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(10.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "وإحباطهم"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('blog/tag/\xD9\x88\xD8\xA5\xD8\xAD...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('blog/tag/\xD9\x88\xD8\xA5\xD8\xAD...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: blog/tag/%D9%88%D8%A5%D8%AD%D8%A8%D8%A7%D8%B7%D9%87%D9%85]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 18:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+CRITICAL - 2024-12-11 18:42:47 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "حساب"
+[Method: GET, Route: help-center/%D8%AD%D8%B3%D8%A7%D8%A8/%D9%83%D9%8A%D9%81-%D8%AA%D8%BA%D9%8A%D8%B1-%D9%83%D9%84%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D9%83]
+in SYSTEMPATH/Router/Router.php on line 737.
+ 1 SYSTEMPATH/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('help-center/حساب/كيف-تغير-كلمة-السر-الخاصة-بك')
+ 2 SYSTEMPATH/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('help-center/حساب/كيف-تغير-كلمة-السر-الخاصة-بك')
+ 3 SYSTEMPATH/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-12-11 18:42:47 --> ErrorException: Uncaught Error: Class "Locale" not found in /home/carttalog/public_html/system/Helpers/number_helper.php:140
+Stack trace:
+#0 /home/carttalog/public_html/system/Helpers/number_helper.php(58): format_number(12.0, 2, NULL, Array)
+#1 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(154): number_to_size(12.0, 2)
+#2 /home/carttalog/public_html/app/Views/errors/html/error_exception.php(365): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(12582912)
+#3 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(266): include('/home/carttalog...')
+#4 /home/carttalog/public_html/system/Debug/BaseExceptionHandler.php(269): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 /home/carttalog/public_html/system/Debug/ExceptionHandler.php(114): CodeIgniter\Debug\BaseExceptionHandler->render(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), 400, '/home/carttalog...')
+#6 /home/carttalog/public_html/system/Debug/Exceptions.php(164): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\HTTP\Exceptions\BadRequestException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 400, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\HTTP\Exceptions\BadRequestException))
+#8 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\HTTP\Exceptions\BadRequestException
+The URI you submitted has disallowed characters: "حساب"
+#0 /home/carttalog/public_html/system/Router/Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('help-center/\xD8\xAD\xD8...')
+#1 /home/carttalog/public_html/system/CodeIgniter.php(834): CodeIgniter\Router\Router->handle('help-center/\xD8\xAD\xD8...')
+#2 /home/carttalog/public_html/system/CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /home/carttalog/public_html/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/carttalog/public_html/system/Boot.php(325): CodeIgniter\CodeIgniter->run()
+#5 /home/carttalog/public_html/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#6 /home/carttalog/public_html/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#7 {main}
+[Method: GET, Route: help-center/%D8%AD%D8%B3%D8%A7%D8%A8/%D9%83%D9%8A%D9%81-%D8%AA%D8%BA%D9%8A%D8%B1-%D9%83%D9%84%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9-%D8%A8%D9%83]
+in SYSTEMPATH/Helpers/number_helper.php on line 140.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-12-11 19:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 19:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 19:06:32 --> CSRF token verified.
+INFO - 2024-12-11 19:17:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 19:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 19:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 19:53:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 19:59:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:05:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:07:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:19:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:21:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 20:42:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:04:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:14:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:17:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:19:41 --> CSRF token verified.
+INFO - 2024-12-11 21:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:43:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:44:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 21:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 22:01:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 22:03:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 22:08:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 22:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 22:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 22:31:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 22:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 22:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:07:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:07:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:08:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:14:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:23:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:32:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:38:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:38:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:40:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:42:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:49:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
+INFO - 2024-12-11 23:50:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\DatabaseHandler' driver.
